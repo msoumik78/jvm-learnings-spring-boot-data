@@ -1,6 +1,6 @@
 spring:
   application:
-    name: jpa-sample1
+    name: jdbc-sample1
   cloud:
     config:
       enabled: false
